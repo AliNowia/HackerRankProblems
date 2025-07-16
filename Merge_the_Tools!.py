@@ -1,3 +1,5 @@
+# TEST_CASE 15 IS WRONG ANSWER. I don't remember why.
+
 def is_in(c, s):
     for l in s:
         if l == c:
